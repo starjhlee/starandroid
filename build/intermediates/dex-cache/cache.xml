@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\JHLEEworkspace\ActionBarCompat-ShareActionProvider1\Application\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\libs\internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="D:\JHLEEworkspace\ActionBarCompat-ShareActionProvider1\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-353bbe96775aec478baeb088dbe3fa0de382da34.jar" />
+    </item>
+    <item
+        jar="D:\JHLEEworkspace\ActionBarCompat-ShareActionProvider1\Application\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9742ced04aafd9ac97dd2c66c1aa0e32d2ae7e54">
+        <dex dex="D:\JHLEEworkspace\ActionBarCompat-ShareActionProvider1\Application\build\intermediates\pre-dexed\debug\classes-c628547e8166d94f0385a391d600d01c32e30823.jar" />
+    </item>
+    <item
+        jar="C:\Users\JHLEE\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.2\support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="D:\JHLEEworkspace\ActionBarCompat-ShareActionProvider1\Application\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-8349637e50723a3cf636593d80e99b015807a85a.jar" />
+    </item>
+    <item
+        jar="D:\JHLEEworkspace\ActionBarCompat-ShareActionProvider1\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54">
+        <dex dex="D:\JHLEEworkspace\ActionBarCompat-ShareActionProvider1\Application\build\intermediates\pre-dexed\debug\classes-4bd4d26bd8ea36abe3a7e621e96254250154c436.jar" />
+    </item>
+    <item
+        jar="D:\JHLEEworkspace\ActionBarCompat-ShareActionProvider1\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b017100da14f9c158c9f5f2f508333c224b24a7c">
+        <dex dex="D:\JHLEEworkspace\ActionBarCompat-ShareActionProvider1\Application\build\intermediates\pre-dexed\debug\classes-cf0b0952dab3cc682922de0e8f795e1128c500b9.jar" />
+    </item>
+    <item
+        jar="D:\JHLEEworkspace\ActionBarCompat-ShareActionProvider1\Application\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="D:\JHLEEworkspace\ActionBarCompat-ShareActionProvider1\Application\build\intermediates\pre-dexed\debug\classes-254ff2f961b46dbe11e8cb08059c136ecd867774.jar" />
+    </item>
+
+</items>
